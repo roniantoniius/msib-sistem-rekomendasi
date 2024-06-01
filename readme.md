@@ -11,8 +11,10 @@ This project uses a Content Based Filtering approach, where recommendations are 
 
 
 ## Documentation
-1. Experiment 1 Recommendation of Internship Positions / Vacancies
-2. Experiment 2 Internship Position / Vacancy Recommendation
+![image](https://github.com/roniantoniius/msib-sistem-rekomendasi/assets/121453378/47fa5c57-b8d9-40f1-a357-f8a0c74c3a47)
+
+![image](https://github.com/roniantoniius/msib-sistem-rekomendasi/assets/121453378/aa709cf6-20d5-4672-b9f1-2da94b21294f)
+
 
 
 
@@ -33,3 +35,4 @@ The recommendation system by applying Content Based Filtering in this 2nd experi
 3. Install the required libraries using `pip install -r requirements.txt`.
 4. Run the Streamlit app using `streamlit run magang.py`.
 5. Interact with the recommender system about intern msib
+6. Or you guys can go to the deployed app:https://msib-sistem-rekomendasi.streamlit.app/
