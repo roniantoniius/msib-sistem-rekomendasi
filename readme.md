@@ -36,3 +36,6 @@ The recommendation system by applying Content Based Filtering in this 2nd experi
 4. Run the Streamlit app using `streamlit run magang.py`.
 5. Interact with the recommender system about intern msib
 6. Or you guys can go to the deployed app:https://msib-sistem-rekomendasi.streamlit.app/
+
+## Upcoming
+This project will be updated soon with new data on how much people apply for some intern position.
